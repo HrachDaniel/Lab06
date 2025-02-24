@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html LANG="UK"> 
+<head> 
+     <TITLE> Використання cенсорних зображень </TITLE> 
+     <meta charset="UTF-8"> 
+     <map name="map1"> 
+</head> 
+<body> 
+ <center> 
+<H1 ALIGN="CENTER"> Батьківщина </H1>    
+<area shape="rect"coords="0,0,300,260" title="Карта"> 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabal.com.ua%2Fkarty-ukrainy.html&psig=AOvVaw1g8Pji59EjLggxFHPrlNiF&ust=1740467345020000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNDsv57g24sDFQAAAAAdAAAAABAK" width="300" height="260" border="2" usemap="#map1"> 
+<p>
+<map name="map2">
+<area shape="rect"coords="0,0,300,260" title="Столиця"> 
+ <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fpatrioty.org.ua%2Fblogs%2Ftsikava-rozpovid-pro-11-ukrainskykh-stolyts-foto-185358.html&psig=AOvVaw3d40TRksb415jan5AETqY6&ust=1740466965674000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCpvuze24sDFQAAAAAdAAAAABAK" width="300" height="260" border="2" usemap="#map2">
+</p>
+<p>
+<map name="map3">
+<area shape="rect"coords="0,0,300,260" title="Область де народився"> 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdwt.com.ua%2Fua%2Fservice%2Fpoltava%2F&psig=AOvVaw3BnK9NX1rJkILq8jj546cR&ust=1740467405550000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLCF-rzg24sDFQAAAAAdAAAAABAQ" width="300" height="260" border="2" usemap="#map3">
+</p>
+</map>
+</center> 
+ </body>  
+</html>
