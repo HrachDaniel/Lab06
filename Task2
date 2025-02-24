@@ -7,9 +7,9 @@
 </head> 
 <body> 
  <center> 
-    <area shape="circle"coords="98,300,70" href="#HrachLab01-9.htm" TARGET="_blank" title="Про мене"> 
-    <area shape="rect"coords="242,241,466,374" href="#HrachLab05-3.htm" TARGET="_blank" title="Мої гіперпосилання"> 
-    <area shape="poly"coords="559,270,639,229,719,269,721,353,639,392,559,350" href="#HrachLab06-3.htm" TARGET="_blank" title="Батьківщина"> 
+    <area shape="circle"coords="98,300,70"  HREF="HrachLab01-9.htm" title="Про мене"> 
+    <area shape="rect"coords="242,241,466,374" HREF="HrachLab05-3.htm" title="Мої гіперпосилання"> 
+    <area shape="poly"coords="559,270,639,229,719,269,721,353,639,392,559,350" HREF="HrachLab06-3.htm" title="Батьківщина"> 
     <img src="Figurs.jpg" width="768" height="614" border="2" usemap="#map1">
  </map>
 </center> 
