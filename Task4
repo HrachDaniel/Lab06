@@ -1,1 +1,22 @@
-123
+<!DOCTYPE html>
+<html LANG="UK"> 
+<head> 
+     <TITLE> Використання cенсорних зображень </TITLE> 
+     <meta charset="UTF-8"> 
+     <map name="map1"> 
+</head> 
+<body> 
+ <h1 ALIGN="center"> Мої друзі </h1>
+<center> 
+    <area shape="rect"coords="25,226,147,747"  HREF="Friend1.htm" title="Климась Назар"> 
+    <area shape="rect"coords="175,250,271,746" HREF="Friend2.htm" title="Кекало Артем"> 
+    <area shape="rect"coords="294,264,372,743" HREF="Friend3.htm"  title="Зуй Дмитро"> 
+    <area shape="rect"coords="411,284,467,742" HREF="Friend4.htm"  title="Малик Віталій">
+    <area shape="rect"coords="505,302,562,744" HREF="Friend5.htm"  title="Пугач Поліна">    
+    <area shape="rect"coords="698,274,800,742" HREF="Friend6.htm"  title="Вовчок Маргарита">   
+    <area shape="rect"coords="810,282,906,745" HREF="Friend7.htm"  title="Лень Леонід">
+   <img src="Friends.jpg" width="1000" height="750" border="2" usemap="#map1">
+ </map>
+</center> 
+</body>  
+</html>
